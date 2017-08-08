@@ -1,0 +1,19 @@
+{
+  "name": "Scrapbox App",
+  "version": "1.0.0",
+  "description": "Scrapbox electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/henteko/scrapbox-electron",
+  "keywords": [
+    "Electron",
+    "scrapbox"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "~1.6.12"
+  }
+}
