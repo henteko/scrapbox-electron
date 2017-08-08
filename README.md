@@ -11,6 +11,8 @@ git clone https://github.com/henteko/scrapbox-electron
 cd scrapbox-electron
 # Install dependencies and run the app
 npm install && npm start
+# Release
+npm run release
 ```
 
 ## License
